@@ -64,9 +64,11 @@ body{
 .profileText h2 span{
     font-size: 0.8em;
     font-weight: 300;
-    
-}
 
+}
+.contactInfo{
+    position: relative;
+}
 
 
 
@@ -78,7 +80,4 @@ body{
     position: relative;
     background: #fff;
     padding: 40px;
-}
-img{
-    border-radius: 50%;
 }
